@@ -8,7 +8,7 @@ I'm a dedicated student currently pursuing a degree in Software Engineering at I
 
 *   🌍  I'm based in Brasília, Brazil
 *   ✉️  You can contact me at [lucasfidalgo28@gmail.com](mailto:lucasfidalgo28@gmail.com)
-*   🧠  I'm learning Django and Flask
+*   🧠  I'm learning Apache Airflow
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I'm on a mission to make bugs disappear faster than Houdini.
 *   ### Skills 
